@@ -81,7 +81,7 @@ const textmakerCommand = require('./commands/textmaker');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://chat.whatsapp.com/GMbpC4LY581FwCkFYM7dFn";
+global.channelLink = "";
 global.ytch = "Mr Unique Hacker";
 
 // Forwarded context info
